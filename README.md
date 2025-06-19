@@ -1,5 +1,6 @@
 # Tarumt_GPA_Calculator
 This is a ~~for fun~~ C++ program for personal use or my friends in collage to calculate expected gpa and it took me 3 days to make it. Have Fun!
+
 **-just a simple program**
 
 **-all input have the validation**
