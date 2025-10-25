@@ -3,6 +3,7 @@
 A simple **C++ console application** that calculates the **expected GPA** based on TARUMT’s grading system.  
 This project was created for **personal learning and practice**, and also shared with friends in college.  
 Built entirely using basic C++ — **no arrays**, just clean logic and validation.
+
 ---
 ## Features  
 - Simple and beginner-friendly command line interface  
